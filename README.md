@@ -1,5 +1,7 @@
 # React-JS-first-project
 
+Topics in this course: https://github.com/josdoaitran/react-js-first-project/blob/main/topics.md
+
 ## Setup:
 - NodeJS: [Download and Setup](https://nodejs.org/en/download/)
 
